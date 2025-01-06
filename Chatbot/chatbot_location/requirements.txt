@@ -1,0 +1,10 @@
+python-dotenv~=1.0.1
+streamlit~=1.29.0
+google-generativeai~=0.8.3
+faiss-cpu~=1.8.0
+langchain~=0.1.16
+python-docx
+pypdf~=4.1.0
+sentence-transformers~=2.5.1
+transformers~=4.39.3
+accelerate==0.23.0
